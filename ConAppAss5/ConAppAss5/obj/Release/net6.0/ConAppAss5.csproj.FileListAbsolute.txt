@@ -1,0 +1,14 @@
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.exe
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.deps.json
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.runtimeconfig.json
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.dll
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\ConAppAss5.pdb
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.AssemblyInfo.cs
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.dll
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\refint\ConAppAss5.dll
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.pdb
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ConAppAss5.genruntimeconfig.cache
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\obj\Release\net6.0\ref\ConAppAss5.dll

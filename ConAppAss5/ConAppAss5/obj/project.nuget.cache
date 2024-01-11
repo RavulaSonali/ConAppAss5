@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RWHPvTDviIgt8EQK7jeDIkGHxlILRMrrHAPKVY3lsGH49pfGzl6pvcikiaCnbYEp8gBvzikWC+1csubnEjK5gQ==",
+  "success": true,
+  "projectFilePath": "D:\\Mphasis\\Phase-4 Testing\\11-01-2024\\Assignment-5\\ConAppAss5\\ConAppAss5\\ConAppAss5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Welcome\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}

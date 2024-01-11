@@ -1,0 +1,5 @@
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.exe
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.dll
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.deps.json
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.runtimeconfig.json
+D:\Mphasis\Phase-4 Testing\11-01-2024\Assignment-5\ConAppAss5\ConAppAss5\bin\Release\net6.0\publish\ConAppAss5.pdb
